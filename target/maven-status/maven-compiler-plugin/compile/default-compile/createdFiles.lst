@@ -1,0 +1,7 @@
+com/test_connection_mysql/mapper/DozerMapper.class
+com/test_connection_mysql/entities/Person.class
+com/test_connection_mysql/exceptions/ExceptionResponse.class
+com/test_connection_mysql/exceptions/CustomizedResponseEntityExceptionHandler.class
+com/test_connection_mysql/vo/v1/PersonVO.class
+com/test_connection_mysql/TestConnectionMysqlApplication.class
+com/test_connection_mysql/repository/PersonRepository.class

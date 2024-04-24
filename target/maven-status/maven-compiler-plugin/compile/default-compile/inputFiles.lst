@@ -1,0 +1,10 @@
+/home/joao.machado/personal/test_connection_mysql/src/main/java/com/test_connection_mysql/vo/v1/PersonVO.java
+/home/joao.machado/personal/test_connection_mysql/src/main/java/com/test_connection_mysql/entities/Person.java
+/home/joao.machado/personal/test_connection_mysql/src/main/java/com/test_connection_mysql/TestConnectionMysqlApplication.java
+/home/joao.machado/personal/test_connection_mysql/src/main/java/com/test_connection_mysql/mapper/DozerMapper.java
+/home/joao.machado/personal/test_connection_mysql/src/main/java/com/test_connection_mysql/repository/PersonRepository.java
+/home/joao.machado/personal/test_connection_mysql/src/main/java/com/test_connection_mysql/exceptions/ExceptionResponse.java
+/home/joao.machado/personal/test_connection_mysql/src/main/java/com/test_connection_mysql/controllers/PersonController.java
+/home/joao.machado/personal/test_connection_mysql/src/main/java/com/test_connection_mysql/exceptions/ResourceNotFoundException.java
+/home/joao.machado/personal/test_connection_mysql/src/main/java/com/test_connection_mysql/services/PersonService.java
+/home/joao.machado/personal/test_connection_mysql/src/main/java/com/test_connection_mysql/exceptions/CustomizedResponseEntityExceptionHandler.java
