@@ -1,0 +1,3 @@
+com/person_crud/unit_tests/mocks/MockPerson.class
+com/person_crud/unit_tests/mapper/DozerConverterTest.class
+com/person_crud/TestConnectionMysqlApplicationTests.class
