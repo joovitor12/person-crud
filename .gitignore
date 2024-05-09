@@ -24,3 +24,7 @@ hs_err_pid*
 replay_pid*
 
 *.env
+.env
+src/main/resources/application.properties
+target/
+.idea/
